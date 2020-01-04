@@ -1,0 +1,15 @@
+.login h4{
+    padding: 0 0 8px 8px;
+    text-transform: uppercase;
+    border-bottom: 2px solid salmon;
+}
+
+.login small{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+.login .card{
+    margin-top: 20px;
+}

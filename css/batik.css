@@ -1,0 +1,37 @@
+.batik-pria .shadow {
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.1);
+}
+
+.batik-pria .card{
+    margin-bottom: 50px;
+}
+
+.batik-pria h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: 0 0 5px 5px;
+    border-bottom: 4px solid #dc3545;
+    margin-bottom: 25px;
+}
+
+.batik-pria .card h5{
+    font-family: 'Questrial', sans-serif;
+}
+
+.batik-pria .card button{
+    right: 1.25rem;
+}
+.batik-pria .potong{
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #dc3545;
+}
+.batik-pria .price{
+    text-decoration: line-through;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #dc3545;
+}
